@@ -1,5 +1,13 @@
 /*  your css code here. If applicable */
 #p1{
 	background: yellow;
-	: green;
+	border-color: green;
+}
+#p2{
+	background: red;
+	border-color: black;
+}
+#p3{
+	background: green;
+	border-color: yellow;
 }
