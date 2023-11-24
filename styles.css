@@ -1,19 +1,13 @@
 /*  your css code here. If applicable */
-#p1{
+#yellow{
 	background: yellow;
-	border-style: solid;
-	border-width: 1px;
-	border-color: green;
+	border: soild green;
 }
-#p2{
+#red{
 	background: red;
-	border-style: solid;
-	border-width: 1px; 
-	border-color: black;
+	border: solid black;
 }
-#p3{
-	background: green;
-	border-style: soild;
-	border-width: 1px; 
-	border-color: yellow;
+#green{
+	background-color: green;
+	border: solid yellow
 }
